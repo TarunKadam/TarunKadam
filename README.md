@@ -1,11 +1,11 @@
 # Hi, I'm Tarun Kadam 
-Aspiring AI/ML Engineer | Competitive Programmer  
-B.Tech, Civil Engineering @ IIT Bombay (2028)
+Aspiring AI/ML Engineer | Full-Stack Web Developer | Competitive Programmer  
+B.Tech, Civil Engineering, IIT Bombay '28
 
 ---
 
 ## About Me
-I'm an engineering undergraduate passionate about **Machine Learning**, **Artificial Intelligence**, **Algorithmic Problem Solving** and **Full-Stack Web Development**.  
+I'm a sophomore, currently pursuing B.Tech in Civil Engineering at IIT Bombay. I am passionate about **Machine Learning**, **Artificial Intelligence**, **Algorithmic Problem Solving** and **Full-Stack Web Development**.  
 I build performant applications, explore deep learning, and enjoy diving into complex coding challenges.
 
 Ranked **top 3.63% in JEE Advanced** and **99.58 percentile in JEE Main**, I constantly aim to push boundaries through impactful projects and technical leadership.
@@ -81,22 +81,22 @@ Fusion 360, EasyEDA, ETABS
 ### **3. Course Projects**
 
 #### **Truss Calculator & Visualizer – CE102 Course Project** 
--Problem: Compute internal forces in 2D truss structures and visualize load distribution.
--Solution: Developed a Python solver using NumPy/SciPy matrices and built a visual interface for joints, members, loads, and color-coded forces.
--Tech: Python, NumPy, SciPy, Matplotlib.
--GitHub Link: https://github.com/TarunKadam/Projects/tree/main/Truss_Calculator_and_Visualizer
+- Problem: Compute internal forces in 2D truss structures and visualize load distribution.
+- Solution: Developed a Python solver using NumPy/SciPy matrices and built a visual interface for joints, members, loads, and color-coded forces.
+- Tech: Python, NumPy, SciPy, Matplotlib.
+- GitHub Link: https://github.com/TarunKadam/Projects/tree/main/Truss_Calculator_and_Visualizer
 ---
 
-## 🏆 Achievements
-- 🥇 Ranked **top 3.63%** in **JEE Advanced 2024**  
-- 🥈 **99.58 percentile** in JEE Main (1.4M+ candidates)  
-- 🏅 Top 10% in NSEP (IAPT), among 310+ competitors  
-- 🥇 Gold Medal – SOF International Mathematics Olympiad  
-- 📜 Certificate of Excellence – NSTSE (2016, 2018)
+##  Achievements
+-  Ranked **top 3.63%** in **JEE Advanced 2024**  
+-  **99.58 percentile** in JEE Main (1.4M+ candidates)  
+-  Top 10% in NSEP (IAPT), among 310+ competitors  
+-  Gold Medal – SOF International Mathematics Olympiad  
+-  Certificate of Excellence – NSTSE (2016, 2018)
 
 ---
 
-## 🏢 Positions of Responsibility
+##  Positions of Responsibility
 
 ### **Web Coordinator – Student Alumni Relations Cell, IIT Bombay**  
 - Part of a 70-member team conducting 50+ events every year  
@@ -107,14 +107,14 @@ Fusion 360, EasyEDA, ETABS
 
 ---
 
-## 📚 Key Coursework
+##  Key Coursework
 - **Programming:** C++ Programming, Calculus, Linear Algebra, Numerical Methods  
 
 ---
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 - **Email:** tarunkadam0806@gmail.com 
 - **LinkedIn:** https://www.linkedin.com/in/tarun-kadam-657a44330/ 
 - **Resume:** https://drive.google.com/file/d/1NAKWdYTo2DU93mVRyooBhPSNVp1s4QsL/view?usp=sharing
