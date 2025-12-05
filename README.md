@@ -82,7 +82,7 @@ Fusion 360, EasyEDA, ETABS
 #### **Truss Calculator & Visualizer – CE102 Course Project** 
 - Problem: Compute internal forces in 2D truss structures and visualize load distribution.
 - Solution: Developed a Python solver using NumPy/SciPy matrices and built a visual interface for joints, members, loads, and color-coded forces.
-- Tech: Python, NumPy, SciPy, Matplotlib.
+- Tech: Python, NumPy, SciPy.
 - GitHub Link: https://github.com/TarunKadam/Projects/tree/main/Truss_Calculator_and_Visualizer
 ---
 
