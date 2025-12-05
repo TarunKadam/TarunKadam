@@ -1,18 +1,18 @@
-# Hi, I'm Tarun Kadam 👋  
-Aspiring ML Engineer | Full-Stack Developer | Competitive Programmer  
+# Hi, I'm Tarun Kadam 
+Aspiring AI/ML Engineer | Competitive Programmer  
 B.Tech, Civil Engineering @ IIT Bombay (2028)
 
 ---
 
-## 🚀 About Me
-I'm an engineering undergraduate passionate about **Machine Learning**, **Full-Stack Development**, and **Algorithmic Problem Solving**.  
+## About Me
+I'm an engineering undergraduate passionate about **Machine Learning**, **Artificial Intelligence**, **Algorithmic Problem Solving** and **Full-Stack Web Development**.  
 I build performant applications, explore deep learning, and enjoy diving into complex coding challenges.
 
 Ranked **top 3.63% in JEE Advanced** and **99.58 percentile in JEE Main**, I constantly aim to push boundaries through impactful projects and technical leadership.
 
 ---
 
-## 🧠 Technical Skills
+## Technical Skills
 
 ### 🔹 Programming  
 C++, Python, Java, HTML, CSS, JavaScript, Git
@@ -28,64 +28,63 @@ Fusion 360, EasyEDA, ETABS
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🔥 **1. ML & AI Projects**
+### **1. ML & AI Projects**
 
 #### **MNIST Digit Classifier (CNN) – 98.9% Accuracy**  
 - Built a CNN with regularization and one-hot encoding  
 - Compared dropout vs non-dropout model performance  
 - Part of “Winter in Data Science – IIT Bombay”
+- Drive Link: https://drive.google.com/file/d/1mmfFNJ2o0nC4fbg4BHaFRNui4mqD2UMs/view?usp=sharing
 
 #### **Pedestrian Detection (Faster R-CNN + ResNet-50)**  
-- Fine-tuned Faster R-CNN on pedestrian bounding-box dataset  
-- Applied augmentation + preprocessing  
-- Achieved robust detection performance
+- Problem: Detect pedestrians accurately in real-world scenes for safety and surveillance applications.
+- Solution: Trained a Faster R-CNN with ResNet-50 backbone, using COCO pretrained weights and custom augmentation pipeline.
+- Tech: Python, PyTorch, TorchVision, OpenCV.
+- GitHub Link: https://github.com/TarunKadam/Projects/tree/main/Pedestrian_Detection
 
 #### **Sentiment Analysis of Movie Reviews (NLP)**  
-- Cleaned tweets using regex, NLTK, stopwords  
-- TF-IDF vectorization (5000 features)  
-- Logistic Regression with strong classification metrics
+- Problem: Classify movie reviews into positive/negative sentiment using NLP techniques.
+- Solution: Preprocessed text (cleaning, stemming), generated TF-IDF features, and trained a Logistic Regression classifier.
+- Tech: Python, NLTK, Scikit-Learn, Pandas, Regex.
+- GitHub Link: https://github.com/TarunKadam/Projects/tree/main/Sentiment_Analysis_of_Movie_Reviews
 
-#### **Hybrid Image Creation & Image Reconstruction**  
-- Applied Gaussian/Box blur, edge detection  
-- Implemented Wiener filtering + PSD analysis
+#### **Image Processing and Reconstruction**  
+- Problem: Enhance images and reconstruct degraded signals using classical image-processing techniques.
+- Solution: Applied Gaussian/Box blur, created hybrid images, performed edge detection, and implemented Wiener filtering with PSD analysis.
+- Tech: Python, OpenCV, NumPy, SciPy, Matplotlib.
+- GitHub Link: https://github.com/TarunKadam/Projects/tree/main/Image_Processing_and_Reconstruction
 
 ---
 
-### 💻 **2. Web Development Projects**
+### **2. Web Development Projects**
 
 #### **ASMP Website – Student Alumni Relations Cell, IIT Bombay**  
 - Django-based platform connecting **12K+ students with 60K+ alumni**  
 - Streamlined mentor registration → **1500+ registrations**, **120% YoY increase**
+- GitHub Link: https://github.com/TarunKadam/Projects/tree/main/ASMP_Website
 
 #### **Shadow Program Portal – React + Django REST**  
 - Built full-stack website using React.js with framer-motion  
 - Managed 300+ sign-ups within 10 minutes  
 - Boosted user engagement by **40%**
+-  GitHub Link: https://github.com/TarunKadam/Projects/tree/main/Shadow_Program
 
 #### **Alumination Website – Flagship Fest (Next.js Migration)**  
 - Migrated from React → Next.js  
 - Improved page speed by **30%**  
 - Enabled **2K+ registrations** across 20+ events
+- GitHub Link: https://github.com/TarunKadam/Projects/tree/main/Alumination2025
 
 ---
+### **3. Course Projects**
 
-### 🛰️ **3. Engineering & Hardware Projects**
-
-#### **Drone Controller Design (ESP32 + Wireless 2.4GHz)**  
-- Designed ergonomic hardware using Fusion 360 & EasyEDA  
-- Integrated joysticks + microcontroller + wireless transceivers  
-- Complete 3D-printed controller assembly
-
-#### **Python Truss Calculator & Visualizer**  
-- Computes internal forces using NumPy & SciPy  
-- GUI for joints, loads, supports, and color-coded member forces
-
-#### **Smart Water Networks (Civil + IoT + AI)**  
-- Applied Bernoulli, Navier–Stokes, viscosity, Reynolds number  
-- Proposed digital twins, IoT, and AI-driven optimization
-
+#### **Truss Calculator & Visualizer – CE102 Course Project** 
+-Problem: Compute internal forces in 2D truss structures and visualize load distribution.
+-Solution: Developed a Python solver using NumPy/SciPy matrices and built a visual interface for joints, members, loads, and color-coded forces.
+-Tech: Python, NumPy, SciPy, Matplotlib.
+-GitHub Link: https://github.com/TarunKadam/Projects/tree/main/Truss_Calculator_and_Visualizer
 ---
 
 ## 🏆 Achievements
@@ -109,30 +108,16 @@ Fusion 360, EasyEDA, ETABS
 ---
 
 ## 📚 Key Coursework
-- **Programming:** CP, Calculus, Linear Algebra, Numerical Methods  
-- **Civil:** Engineering Mechanics, Solid Mechanics, Hydromechanics  
+- **Programming:** C++ Programming, Calculus, Linear Algebra, Numerical Methods  
 
 ---
-
-## 🧩 Competitive Programming & DSA
-- Solved **100+ DSA problems** (C++)  
-- Strong in arrays, recursion, trees, DP, greedy, backtracking  
-- Solved CSES problems (Binary Search, Strings, Number Theory)  
-- Studied Antti Laaksonen’s Competitive Programmer’s Handbook
-
----
-
-## 🌱 Extracurriculars
-- NSS Volunteer – taught 80+ hours; mentored 40+ NGO students  
-- Cricket (Civil Sports Meet), Tug of War (Freshmen GC)  
-- Participated in Generative AI workshop & public speaking sessions
 
 ---
 
 ## 📫 Contact Me
-- **Email:** tarunkadam@gmail.com *(replace with correct one)*  
-- **LinkedIn:** linkedin.com/in/tarun-kadam *(replace with your link)*  
-- **Resume:** Add Google Drive link here  
+- **Email:** tarunkadam0806@gmail.com 
+- **LinkedIn:** https://www.linkedin.com/in/tarun-kadam-657a44330/ 
+- **Resume:** https://drive.google.com/file/d/1NAKWdYTo2DU93mVRyooBhPSNVp1s4QsL/view?usp=sharing
 
 
 <!--
