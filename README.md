@@ -1,5 +1,5 @@
 # Hi, I'm Tarun Kadam 
-Aspiring AI/ML Engineer | Full-Stack Web Developer | Competitive Programmer  
+Aspiring AI/ML Engineer | Software Developer | Full-Stack Web Developer  
 B.Tech, Civil Engineering, IIT Bombay '28
 
 ---
