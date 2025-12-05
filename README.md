@@ -7,7 +7,6 @@ B.Tech, Civil Engineering, IIT Bombay '28
 ## About Me
 I'm a sophomore, currently pursuing B.Tech in Civil Engineering at IIT Bombay. I am passionate about **Machine Learning**, **Artificial Intelligence**, **Algorithmic Problem Solving** and **Full-Stack Web Development**.  
 I build performant applications, explore deep learning, and enjoy diving into complex coding challenges.
-
 Ranked **top 3.63% in JEE Advanced** and **99.58 percentile in JEE Main**, I constantly aim to push boundaries through impactful projects and technical leadership.
 
 ---
